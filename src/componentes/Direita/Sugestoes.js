@@ -2,6 +2,7 @@ import Sugestao from './sugestao'
 import './Sugestoes.css'
 import sanji from '../Centro/imagem/sanji.jpg'
 import zoro from '../Centro/imagem/zoro.jpg'
+import brook from '../Centro/imagem/brook.jpg'
 
 var listaPerfil = [
     {
@@ -11,6 +12,10 @@ var listaPerfil = [
     {
         nome: "Zoro",
         src: zoro
+    },
+    {
+        nome: "Brook",
+        src: brook
     }
 ]
 
